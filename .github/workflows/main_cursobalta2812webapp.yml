@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'cursobalta2812webapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_681E87B910F0415A8E0A88E675FDCD5F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F71447B40A8242509945AC337B06951D }}
           package: .
